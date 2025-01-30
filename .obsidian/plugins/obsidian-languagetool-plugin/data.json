@@ -1,0 +1,15 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "urlMode": "standard",
+  "glassBg": true,
+  "shouldAutoCheck": true,
+  "autoCheckDelay": 3000,
+  "pickyMode": true,
+  "motherTongue": "en",
+  "staticLanguage": "auto",
+  "ruleOtherDisabledRules": "PUNCTUATION_PARAGRAPH_END,",
+  "englishVeriety": "en-US",
+  "germanVeriety": "de-DE",
+  "portugueseVeriety": "pt-PT",
+  "catalanVeriety": "ca-ES"
+}

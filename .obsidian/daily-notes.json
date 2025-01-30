@@ -1,6 +1,6 @@
 {
   "format": "YYYY/YYYY-MM/[W]-WW/DD-MM-YYYY",
-  "folder": "Dairy",
-  "template": "templater/daily note template",
+  "folder": "dailyNote",
+  "template": "template/daily note template",
   "autorun": true
 }

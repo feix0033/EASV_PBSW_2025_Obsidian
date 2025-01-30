@@ -1,13 +1,3 @@
 {
-  "translucency": true,
-  "theme": "system",
-  "cssTheme": "Royal Velvet",
-  "accentColor": "#2a833c",
-  "showViewHeader": true,
-  "baseFontSize": 16,
-  "textFontFamily": "Monaspace Radon,HanziPen SC",
-  "interfaceFontFamily": "Monaspace Neon",
-  "baseFontSizeAction": false,
-  "monospaceFontFamily": "Monaspace Krypton",
-  "nativeMenus": false
+  "cssTheme": "Blue Topaz"
 }

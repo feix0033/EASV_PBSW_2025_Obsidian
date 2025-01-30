@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9765c19ee4a07650",
+        "id": "3c1f0393f7659402",
         "type": "tabs",
         "children": [
           {
-            "id": "2a0bc2f5cbfb8817",
+            "id": "bae4f108d91a3d18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tutorial/Docker 实战教程@尚硅谷_周阳.md",
+                "file": "dailyNote/2025/2025-01/W-05/30-01-2025.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker 实战教程@尚硅谷_周阳"
+              "title": "30-01-2025"
             }
           }
         ]
@@ -231,11 +231,24 @@
       "marp:Marp: Open Preview": false,
       "copilot:Copilot Chat": false,
       "media-extended:Open media": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "7587bcb0ef8d5752",
+  "active": "bae4f108d91a3d18",
   "lastOpenFiles": [
+    "template/daily note template.md",
+    "dailyNote/2025/2025-01/W-05/30-01-2025.md",
+    "dailyNote/2025/2025-01/W-05",
+    "dailyNote/2025/2025-01",
+    "dailyNote/2025",
+    "daily note template.md",
+    "template",
+    "dailyNote",
+    "notes",
     "tutorial/Docker实战+微服务打包Docker容器@叩丁狼/Docker实战_微服务打包Docker容器@叩丁狼_刘刚.md",
     "tutorial/docker+k8s+devops教程/docker+k8s+devops教程(未完成).md",
     "tutorial/Docker 实战教程@尚硅谷_周阳.md",
@@ -251,14 +264,10 @@
     "attachments/0042-1-1-Software Development 2024.pdf",
     "attachments/Fei Gu.pdf",
     "Top-up-visa-payment.pdf.md",
-    "attachments/Top-up-visa-payment.pdf",
-    "attachments/Nordea - Transaktioner & detaljer.pdf",
-    "Nordea - Transaktioner & detaljer.pdf",
     "15-12-2024.md",
     "Dairy/2024/2024-12/12-2024 Monthly Log.md",
     "FVU.md",
     "Dairy/2025/Future Log.md",
-    "Dairy/2024/2024-12/W-01",
     "Pasted image 20241214115824.png.md",
     "Dairy/2024/2024-12/W-52/29-12-2024.md",
     "doc/2023年个人文档/求职的相关文档/The cover letter for Junior Software Developer at BifrostConnect.md",
@@ -267,11 +276,6 @@
     "tutorial/JavaScript 核心基础@李立超.md",
     "06_EASV/5th_semester/Intership/IntershipReport.md",
     "topic/项目构建工具的迁移.md",
-    "Dairy/2024/2024-08/W-34/22-08-2024.md",
-    "tutorial/前端部署与缓存管理@三十的前端课.md.md",
-    "tutorial/前端构建工具@李立超.md",
-    "Dairy/2024/2024-12/W-52",
-    "doc/2024年个人文档/签证和文件/attachments/document.pdf",
     "tutorial/Bullet Journal 使用方法/attachments/Pasted image 20241214115838.png",
     "tutorial/Bullet Journal 使用方法/attachments/Pasted image 20241214115824.png",
     "tutorial/GraphQL@千峰_王大全/attachments/Pasted image 20241211153751.png",

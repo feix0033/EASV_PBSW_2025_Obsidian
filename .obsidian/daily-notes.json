@@ -1,6 +1,0 @@
-{
-  "format": "YYYY/YYYY-MM/[W]-WW/DD-MM-YYYY",
-  "folder": "dailyNote",
-  "template": "template/daily note template",
-  "autorun": true
-}

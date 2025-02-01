@@ -30,12 +30,13 @@ For your daily notes without sharing, I would like to suggest you use the same n
 ## File structure
 
 ```shall
-├── README.md // this file
-├── how-to    // how to use something.
-├── journals   // private daily notes.
-├── notes  
-├── templater
-└── what-is
-
+├── README.md   // this file
+├── bookNotes   // the lecture reading notes, feel free to contribute.
+├── class.      // the anything that happened during the class and have to make a record. (e.g. assignment and answers)
+├── how-to      // how to do something or how to use something
+├── journals    // private daily note 
+├── templater   // the template that templater plug-in is used
+└── what-is     // concept explanation
+```
 
 

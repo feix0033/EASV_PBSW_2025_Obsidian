@@ -7,7 +7,7 @@ summery: []
 references:
 ---
 - # Recap
-	- Kahoot Game 5617988
+	- ## Kahoot Game 5617988
 		- A relation is defined by 
 			- A name and a set of attributes.
 		- Attributes of a relational is equivalent to

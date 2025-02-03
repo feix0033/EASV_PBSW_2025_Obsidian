@@ -7,4 +7,4 @@ tags:
 references:
 ---
 <% tp.file.cursor() %>
-<% await tp.file.move("what-is/" + tp.file.title) %>
+<% await tp.file.move("/what-is/" + tp.file.title) %>
